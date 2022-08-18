@@ -9,3 +9,4 @@ do
   if [[ "$i" == '9' ]]; then
     echo Hi
   fi
+  done
