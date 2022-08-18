@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 # loops from 1 to 10 and displays
 #+ "bad luck" for the 4th loop iteration
