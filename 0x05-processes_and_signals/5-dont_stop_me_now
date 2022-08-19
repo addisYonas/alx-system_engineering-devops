@@ -1,15 +1,4 @@
 #!/usr/bin/env bash
-#displays best school ten times
-i=1
+# stop to infinity and beyond
 
-while [ $i -le 10 ]
-do
-((i++))
-    if [[ "$i" == '5' ]]; then
-    echo bad luck
-    elif [[ "$i" == '9' ]]; then
-    echo good luck
-    else
-    echo Best School
-    fi
-done
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
