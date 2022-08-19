@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#displays best school ten times
+i=1
+
+while [ $i -le 10 ]
+do
+((i++))
+    if [[ "$i" == '5' ]]; then
+    echo bad luck
+    elif [[ "$i" == '9' ]]; then
+    echo good luck
+    else
+    echo Best School
+    fi
+done
