@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
-#until best school
-i=1  
-until [ $i -gt 10 ]  
-do  
-echo Best School
-((i++))  
-done  
+# prints bash pid
+
+pgrep -l bash
