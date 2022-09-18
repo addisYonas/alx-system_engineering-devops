@@ -1,7 +1,7 @@
 https://imgur.com/gallery/HU71bhG
 
 answers:
-1.A server is a software or hardware device that accepts and responds to requests made over a network. The device that makes the request, and receives a response from the server, is called a client. On the Internet, the term "server" commonly refers to the computer system that receives requests for a web files and sends those files to the client.
+1.A server is a software or hardware device that accepts and responds to requests made over a network. The device that makes the request, and receives a response from the server, is called a client.On the Internet, the term "server" commonly refers to the computer system that receives requests for a web files and sends those files to the client.
 2. Domain name is a text based name of a webpage and used it is used by DNS to match it to its respective IP address.
 3. www.foobar.com, The domain name here is foobar.com that comes after the dot and the first part, www, is a subdomain. www is used as a CNAME record whose value is foobar.com, which is then used by DNS to find it's IP address.
 4.A web server is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web
