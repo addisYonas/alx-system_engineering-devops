@@ -1,7 +1,6 @@
 https://imgur.com/gallery/HU71bhG
 
 answers:
-<<<<<<< HEAD
 	1.A server is a software or hardware device that accepts and responds
 	 to requests made over a network. The device that makes the request,
 	 and receives a response from the server, is called a client. 
@@ -19,17 +18,7 @@ answers:
 	6.A database is a collection of information that is organized so that it can be easily accessed,
 	 managed and updated. Computer databases typically contain aggregations of data records or files, 
 	containing information about sales transactions or interactions with specific customers
-	7. The server uses IP address to communicate with the client using protocols like TCP\IP, HTTP.
-	
-=======
-1.A server is a software or hardware device that accepts and responds to requests made over a network. The device that makes the request, and receives a response from the server, is called a client.On the Internet, the term "server" commonly refers to the computer system that receives requests for a web files and sends those files to the client.
-2. Domain name is a text based name of a webpage and used it is used by DNS to match it to its respective IP address.
-3. www.foobar.com, The domain name here is foobar.com that comes after the dot and the first part, www, is a subdomain. www is used as a CNAME record whose value is foobar.com, which is then used by DNS to find it's IP address.
-4.A web server is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web
-5.An application server is a server specifically designed to run applications. The “server” includes both the hardware and software that provide an environment for programs to run
-6.A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Computer databases typically contain aggregations of data records or files, containing information about sales transactions or interactions with specific customers.7. The server uses IP address to communicate with the client using protocols like TCP\IP, HTTP.
-
->>>>>>> 42ce4a579ca0e6e45ac85dc46028dcb2521178b7
+	7. The server uses IP address to communicate with the client using protocol like TCP\IP, HTTP
 
 Issues with the infrastructure:
 	1.A SPOF or single point of failure is any non-redundant part of a system that, 
