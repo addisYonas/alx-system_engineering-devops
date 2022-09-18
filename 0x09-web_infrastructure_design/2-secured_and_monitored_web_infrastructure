@@ -1,0 +1,34 @@
+https://imgur.com/gallery/JSpAZWx
+
+	answer:
+	1.we are adding firewalls for enhancing our security
+	2,A Firewall is a network security device that monitors and filters incoming and outgoing 		
+	network traffic based on an organization's previously established security policies.
+	3.Hyper Text Transfer Protocol Secure (HTTPS) is the secure version of HTTP, the protocol  
+	over which data is sent between your browser and the website that you are connected to. 		
+	The ‘S’ at the end of HTTPS stands for ‘Secure’. It means all communications between your 		
+	browser and the website are encrypted. HTTPS is often used to protect highly confidential 		
+	online transactions like online banking and online shopping order forms.
+	4.Just as the heart monitor in a hospital that is making sure that a patient’s heart is b
+	eating and at the right beat, software monitoring will watch computer metrics, record them, 
+	and emit an alert if something is unusual or that could make the computer not work properly happens.
+	 5. Data is constantly collected when an application or a server is
+        doing it's job. It's performance, availability, user experiences are
+        constantly being monitored. This data will then be changed to readable
+	form. So If there is a glitch it will be caught immediately and dealt 
+	with.
+        6. We first set up monitoring tools. This tools are able to monitor 
+	metrics. When they do so, the can monitor the quieres per second, to 
+	see if it can handle the traffic and if it is scalable enough for the 
+	incoming traffic.
+	
+	
+Issues with the infrastructure:
+        1. If one applies for SSL termination it will affect sensitive data
+        while making transactions because transaction should be made in a
+        secured connection.
+        2. Any changes that this Master makes the all the changes will also be
+        replicated on the slave, data can be lost easily.
+        3. The problem is failure in that server will fail all of these
+        components.
+
